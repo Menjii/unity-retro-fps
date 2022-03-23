@@ -15,6 +15,7 @@ public class EnemyController : MonoBehaviour
     private float shotCounter;
     public GameObject bullet;
     public Transform firePoint;
+
     // Start is called before the first frame update
     void Start()
     {
